@@ -24,7 +24,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Devnav2902\\Utilitylog\\UtilityLogServiceProvider"
+                "Devnav2902\\Utilitylog\\Providers\\UtilityLogServiceProvider"
             ],
             "aliases": {
                 "UtilityLog": "Devnav2902\\Utilitylog\\Facades\\UtilityLog"
